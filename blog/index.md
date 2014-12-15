@@ -5,15 +5,15 @@ layout: home
 <div class="index-content blog">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>观点</span></a></li>
-            <li class="on" style="text-align:center"><a href="/blog"><span>博客</span></a></li>
+            <li><a href="/"><span>博客</span></a></li>
+            <li class="on" style="text-align:center"><a href="/opinion"><span>观点</span></a></li>
             <li style="text-align:right"><a href="/project"><span>项目</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.blog %}
+        {% for post in site.categories.opinion %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>

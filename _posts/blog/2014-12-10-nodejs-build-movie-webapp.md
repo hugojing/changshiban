@@ -7,6 +7,7 @@ description: 看了阿里 Web 前端工程师 Scott 的 Node 教学视频后，�
 
 ##前言
 因为我们项目的后端打算用 Node.js 实现，所以最近了解了许多，也在这里写点东西作为总结。
+
 在慕课网看到 Scott 大侠的视频：[ node + mongodb 100分钟建站攻略（一期）][1]，一边看一边动手做练习。
 
 ##开发环境与工具
@@ -26,6 +27,7 @@ description: 看了阿里 Web 前端工程师 Scott 的 Node 教学视频后，�
  + 简单了解 Node 的基本知识，安装、模块和包的概念、npm包管理工具的使用、express开发框架  、jade 对 Web前端 的模板化等
  + Linux 环境下命令行的简单使用
 
+
 ##目标效果
 本次练习，使用这些工具实现了一个简单的电影网站的前后端交互，暂时还不涉及到 mongoDB 数据库，放上最终实现的效果：
 
@@ -41,10 +43,12 @@ description: 看了阿里 Web 前端工程师 Scott 的 Node 教学视频后，�
 ###后台录入页
 ![后台录入页](http://changshiban.qiniudn.com/post/admin.png)
 
-后台管理页
+###后台管理页
 ![后台管理页](http://changshiban.qiniudn.com/post/list.png)
 
+
 ##开始
+
 ###创建项目 imovie
 建立项目文件夹 `imovie`；
 
@@ -71,11 +75,11 @@ description: 看了阿里 Web 前端工程师 Scott 的 Node 教学视频后，�
 
 下载到的前端文件会放置在 `bower_components` 文件夹下。
 
+
 ###用 jade 写模板
 我也是第一次接触 jade ，不过很快发现它挺强大，可以实现模板继承。
 
 于是我们的 views 模板分拆如下：
-
 ####公共部分
 在 `views` 文件夹下创建 `layout.jade` , 作为”母模板“(个人的理解，即每个页面的公共骨架)。
 
@@ -149,10 +153,10 @@ description: 看了阿里 Web 前端工程师 Scott 的 Node 教学视频后，�
 
 其他页面的模板类似，在这里不在赘述，后面会附上我写的源代码以供参考。
 
+
 ###写 Node 程序
 
 到这里，我们就差一步就可以实现前后端的交互，让程序跑起来了。
-
 ####配置程序
 
 打开文件 `app.js`
@@ -180,7 +184,6 @@ description: 看了阿里 Web 前端工程师 Scott 的 Node 教学视频后，�
     app.listen(port)
     
     console.log('iMovie started on port ' + port)
-
 ####设置页面
 
 在 `app.js` 里接着往下写，以 首页/index 为例：
@@ -241,6 +244,7 @@ description: 看了阿里 Web 前端工程师 Scott 的 Node 教学视频后，�
             }]
         })
     })
+
 
 ### Run ！
 
