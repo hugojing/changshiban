@@ -180,7 +180,7 @@ Type: TheNet:GenerateServerToken()
 
 ###配置
 
-+ `token`
+1. `token`
 
 用 `logout`命令 回到本地，用 `scp` 命令传输本地的 `server_token.txt` 文件到服务器的 `~/.klei/DoNotStarveTogether` 目录下：
 
@@ -194,7 +194,7 @@ server_token.txt    100%   33     0.0KB/s   00:00
 
 传输成功。
 
-+ `settings.ini`
+2. `settings.ini`
 
 还应该打开同目录下的服务器配置文件 `settings.ini`，配置一下：
 
