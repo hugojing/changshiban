@@ -117,11 +117,7 @@ http://www.nethunter.com/install
 
 ![15](http://changshiban.qiniudn.com/post/150419/q15.png)
 
-![16](http://changshiban.qiniudn.com/post/150419/q16.png)
 
-![17](http://changshiban.qiniudn.com/post/150419/q17.png)
-
-![18](http://changshiban.qiniudn.com/post/150419/q18.png)
 
 
 
@@ -161,7 +157,7 @@ http://www.nethunter.com/install
 [2]:   http://www.nethunter.com          "Nethunter 官网"
 [3]:   http://www.cyanogenmod.org/        "CM 官网"
 [4]:   http://drops.wooyun.org/tips/4634        "前往文章页面"
-[5]:   http://www.nethunter.com/install      " Gitcafe Pages"
+
 [6]:   https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E7%9C%8B%E9%97%A8%E7%8B%97&rsv_pq=80dfa49d0000f351&rsv_t=9e12zY%2F3DfoAe8gTiNg1HUvxN%2BpO4YIQUNC4PKNr%2Bdt2qG8j3gM0d9eqzr4&rsv_enter=0&inputT=1910&rsv_sug3=36&rsv_sug1=19&oq=kanme&rsv_sug2=0&rsp=0&rsv_sug4=1911&bs=Catch%20Me%20If%20You%20Can              "百度一下这个"
 [7]:   https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Catch%20Me%20If%20You%20Can&rsv_pq=ae105df90000ca4c&rsv_t=8c30q7SnEpjZwCIp1RsDZcF0buij1NXixfEjGt7tCtrQimpgPMdUu0%2FmxXA&rsv_enter=0&inputT=1004&rsv_sug3=32&rsv_sug1=14&rsv_n=2&rsv_sug4=1005&rsv_sug=1&bs=%E9%80%8D%E9%81%A5%E6%B3%95%E5%A4%96 "百度一下这个"
 [8]:   https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%AC%BA%E9%AA%97%E7%9A%84%E8%89%BA%E6%9C%AF&rsv_pq=8e982eba00001f58&rsv_t=fa77YBvI%2FmlI3%2F22FTdWMra9t%2FY7DGrtmVBxIadTl39Ixzc9Ldsnsl2FLoU&rsv_enter=1&inputT=3671&rsv_sug3=21&rsv_sug1=12&rsv_sug2=0&rsp=0&rsv_sug4=8794&rsv_sug=1&bs=Catch%20Me%20If%20You%20Can%20%E5%8E%9F%E5%9E%8B  "百度一下这个"
