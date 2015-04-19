@@ -26,7 +26,7 @@ Web 与 Hack ，只有一步之遥。
 
 如果你对“黑客”的起源不了解，「推荐」：
 
-+ 书籍： [`《黑客》`][5]， Steven Levy 的黑客文化和伦理的奠基之作 ，从大型机时期的那些打破陈规“非法”访问穿孔卡片计算机的 MIT 的学生，到缔造出 Altair 和 Apple II 电脑这些伟大产品的精英，可以让你领略这样的 DIY 文化。
++ 书籍： [ `《黑客》` ][5]， Steven Levy 的黑客文化和伦理的奠基之作 ，从大型机时期的那些打破陈规“非法”访问穿孔卡片计算机的 MIT 的学生，到缔造出 Altair 和 Apple II 电脑这些伟大产品的精英，可以让你领略这样的 DIY 文化。
 
 
 关于骇客，表面上我们所能看到的，除了 脚本小子 就是那些不慎失手的有一定实力的骇客。可黑暗中，有多少双眼睛在监视着我们，不知道。
@@ -103,7 +103,9 @@ Web 与 Hack ，只有一步之遥。
 ![8](http://changshiban.qiniudn.com/post/150419/q8.png)
 
 手动去下载一个 Factory Package ，手动放入 NetHunter Installer 的安装目录下 `NetHunter_Installer/data/MD5check_Depot`，即可
+
 下载地址：[http://forum.xda-developers.com/oneplus-one/general/index-oneplus-one-resources-compilation-t2843675][13]
+
 要下载和设备机型对应的 Factory Package ，比如 OnePlus One 对应的需要下载：`cm-11.0-XNPH44S-bacon-signed-fastboot.zip` 
 ![9](http://changshiban.qiniudn.com/post/150419/q9.png)
 
