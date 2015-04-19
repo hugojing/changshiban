@@ -26,21 +26,21 @@ Web 与 Hack ，只有一步之遥。
 
 如果你对“黑客”的起源不了解，「推荐」：
 
-书籍： [`《黑客》`][5]， Steven Levy 的黑客文化和伦理的奠基之作 ，从大型机时期的那些打破陈规“非法”访问穿孔卡片计算机的 MIT 的学生，到缔造出 Altair 和 Apple II 电脑这些伟大产品的精英，可以让你领略这样的 DIY 文化。
+书籍： `[《黑客》][5]`， Steven Levy 的黑客文化和伦理的奠基之作 ，从大型机时期的那些打破陈规“非法”访问穿孔卡片计算机的 MIT 的学生，到缔造出 Altair 和 Apple II 电脑这些伟大产品的精英，可以让你领略这样的 DIY 文化。
 
 
 关于骇客，表面上我们所能看到的，除了 脚本小子 就是那些不慎失手的有一定实力的骇客。可黑暗中，有多少双眼睛在监视着我们，不知道。
 
 如果你想体验一下骇客，「推荐」：
 
-游戏： [`Watch Dogs`][6] ，在游戏中洞察每个人的秘密和银行账户余额，可以满足你熊熊的八卦之心。。。
+游戏： `[Watch Dogs][6]` ，在游戏中洞察每个人的秘密和银行账户余额，可以满足你熊熊的八卦之心。。。
 
 
 另外，如果你对 社会工程学 感兴趣，「推荐」：
 
-电影： [`逍遥法外 / Catch Me If You Can`][7]，小李、汤姆汉克斯 主演，这个故事的原型是 天才罪犯 Frank Abagnale ，我觉得这位也是个传奇黑客 + 天生演员;
++ 电影： `[逍遥法外 / Catch Me If You Can][7]`，小李、汤姆汉克斯 主演，这个故事的原型是 天才罪犯 Frank Abagnale ，我觉得这位也是个传奇黑客 + 天生演员;
 
-书籍： [`《欺骗的艺术》/ The Art of Deception`][8]，著名黑客 Kevin Mitnick 著。
++ 书籍： `[《欺骗的艺术》/ The Art of Deception][8]`，著名黑客 Kevin Mitnick 著。
 
 
 ##刷机
@@ -56,56 +56,93 @@ Web 与 Hack ，只有一步之遥。
 
 ###参考文档：
 
-[http://www.nethunter.com/install]
+http://www.nethunter.com/install
+
 [Pocket Hacking: NetHunter实战指南][4]
 
 我直接在 Windows 下使用了官方提供的傻瓜式安装工具。
 
 ###下载工具和镜像
 
-+ 下载并安装 刷机工具 ：NetHunter Installer 
-下载地址：[http://www.nethunter.com/download]
++ 下载并安装 刷机工具 ：`NetHunter Installer` 
+下载地址：http://www.nethunter.com/download
 
 
-+ 下载适配我的设备的 Kali NetHunter 镜像： kali_linux_nethunter_1.21_bacon_kitkat.zip
-下载地址：[https://www.offensive-security.com/kali-linux-nethunter-download]
++ 下载适配我的设备的 Kali NetHunter 镜像： `kali_linux_nethunter_1.21_bacon_kitkat.zip`
+下载地址：https://www.offensive-security.com/kali-linux-nethunter-download
 
 
 ###运行 NetHunter Installer
 
 根据提示，进行操作即可，非常简单：
 
+####选择设备
 ![1](http://changshiban.qiniudn.com/post/150419/q1.png)
+
+####先 install 再 Test ，记得在之前 打开开发者选项里的调试开关、关闭存储里的MTP
 ![2](http://changshiban.qiniudn.com/post/150419/q2.png)
+
+####Test 成功后就可以下一步了
 ![3](http://changshiban.qiniudn.com/post/150419/q3.png)
+
+####选择镜像， `kali_linux_nethunter_1.21_bacon_kitkat.zip`
 ![4](http://changshiban.qiniudn.com/post/150419/q4.png)
+
+####自助下载依赖文件
 ![5](http://changshiban.qiniudn.com/post/150419/q5.png)
+
+「 ps 1 」 `boot.img` 下载后导入失败的话：
 ![6](http://changshiban.qiniudn.com/post/150419/q6.png)
+
+会弹出这样的框，按步骤手动导入一下即可
 ![7](http://changshiban.qiniudn.com/post/150419/q7.png)
+
+「 ps 2 」 `Factory Package` 下载失败的话：
 ![8](http://changshiban.qiniudn.com/post/150419/q8.png)
+
+手动去下载一个 Factory Package ，手动放入 NetHunter Installer 的安装目录下 `NetHunter_Installer/data/MD5check_Depot`，即可
 ![9](http://changshiban.qiniudn.com/post/150419/q9.png)
+
+####解锁设备
 ![10](http://changshiban.qiniudn.com/post/150419/q10.png)
+
+####置入原版安卓
 ![11](http://changshiban.qiniudn.com/post/150419/q11.png)
+
 ![12](http://changshiban.qiniudn.com/post/150419/q12.png)
 
+![13](http://changshiban.qiniudn.com/post/150419/q13.png)
+
+![14](http://changshiban.qiniudn.com/post/150419/q14.png)
+
+![15](http://changshiban.qiniudn.com/post/150419/q15.png)
+
+![16](http://changshiban.qiniudn.com/post/150419/q16.png)
+
+![17](http://changshiban.qiniudn.com/post/150419/q17.png)
+
+![18](http://changshiban.qiniudn.com/post/150419/q18.png)
 
 
 
-###刷机成功
+##刷机成功
 
 赶快看看长啥模样～
 
 ![20](http://changshiban.qiniudn.com/post/150419/q20.png)
+
 ![21](http://changshiban.qiniudn.com/post/150419/q21.png)
+
 ![22](http://changshiban.qiniudn.com/post/150419/q22.png)
+
 ![23](http://changshiban.qiniudn.com/post/150419/q23.png)
 
 
-###Let's Hack
+##Let's Hack
 
-到此手里的只是基础版的黑客手机，还需要一些武器和增强作用。
+到此手里的基础版的黑客手机就打造成功了，可以开始使用。
 
-我对此还没有研究，不过有些文档可以参考：
+我对此还没有深入研究，不过有些文档可以参考：
 
 
 [Pocket Hacking: NetHunter实战指南][4] 的后半部分
@@ -113,13 +150,19 @@ Web 与 Hack ，只有一步之遥。
 [关于zANTI和dsploit两款安卓安全工具的对比][9]
 
 
+##新开的微信公众号
+如果你遇到什么问题，或者想跟我探讨`编程、游戏、黑客、产品`话题，可以通过我刚刚开通的微信订阅号跟我联络：
 
-[1]:   http://www.budidc.com      " 萌芽主机"
-[2]:   http://www.net.cn          "万网"
-[3]:   http://www.cyanogenmod.org/        "Jekyll"
-[4]:   http://drops.wooyun.org/tips/4634        " Github Pages"
+微信号：`changshibandotcom`
+
+
+
+[1]:   http://zhuanlan.zhihu.com/evilcos      " 余弦的知乎专栏"
+[2]:   http://www.nethunter.com          "Nethunter 官网"
+[3]:   http://www.cyanogenmod.org/        "CM 官网"
+[4]:   http://drops.wooyun.org/tips/4634        "前往文章页面"
 [5]:   http://www.nethunter.com/install      " Gitcafe Pages"
-[6]:   https://leancloud.cn/              "LeanCloud"
-[7]:   https://www.digitalocean.com/?refcode=325e3dc13b2a "DigitalOcean"
-[8]:   https://education.github.com/pack  "官网页面"
-[9]:   http://drops.wooyun.org/mobile/2503      "文章页面" 
+[6]:   https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E7%9C%8B%E9%97%A8%E7%8B%97&rsv_pq=80dfa49d0000f351&rsv_t=9e12zY%2F3DfoAe8gTiNg1HUvxN%2BpO4YIQUNC4PKNr%2Bdt2qG8j3gM0d9eqzr4&rsv_enter=0&inputT=1910&rsv_sug3=36&rsv_sug1=19&oq=kanme&rsv_sug2=0&rsp=0&rsv_sug4=1911&bs=Catch%20Me%20If%20You%20Can              "百度一下这个"
+[7]:   https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Catch%20Me%20If%20You%20Can&rsv_pq=ae105df90000ca4c&rsv_t=8c30q7SnEpjZwCIp1RsDZcF0buij1NXixfEjGt7tCtrQimpgPMdUu0%2FmxXA&rsv_enter=0&inputT=1004&rsv_sug3=32&rsv_sug1=14&rsv_n=2&rsv_sug4=1005&rsv_sug=1&bs=%E9%80%8D%E9%81%A5%E6%B3%95%E5%A4%96 "百度一下这个"
+[8]:   https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%AC%BA%E9%AA%97%E7%9A%84%E8%89%BA%E6%9C%AF&rsv_pq=8e982eba00001f58&rsv_t=fa77YBvI%2FmlI3%2F22FTdWMra9t%2FY7DGrtmVBxIadTl39Ixzc9Ldsnsl2FLoU&rsv_enter=1&inputT=3671&rsv_sug3=21&rsv_sug1=12&rsv_sug2=0&rsp=0&rsv_sug4=8794&rsv_sug=1&bs=Catch%20Me%20If%20You%20Can%20%E5%8E%9F%E5%9E%8B  "百度一下这个"
+[9]:   http://drops.wooyun.org/mobile/2503      "前往文章页面" 
