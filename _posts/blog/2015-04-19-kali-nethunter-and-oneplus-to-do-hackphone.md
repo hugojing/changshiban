@@ -26,7 +26,7 @@ Web 与 Hack ，只有一步之遥。
 
 如果你对“黑客”的起源不了解，「推荐」：
 
-+ 书籍： [ `《黑客》` ][5]， Steven Levy 的黑客文化和伦理的奠基之作 ，从大型机时期的那些打破陈规“非法”访问穿孔卡片计算机的 MIT 的学生，到缔造出 Altair 和 Apple II 电脑这些伟大产品的精英，可以让你领略这样的 DIY 文化。
++ 书籍： [`《黑客》`][5]， Steven Levy 的黑客文化和伦理的奠基之作 ，从大型机时期的那些打破陈规“非法”访问穿孔卡片计算机的 MIT 的学生，到缔造出 Altair 和 Apple II 电脑这些伟大产品的精英，可以让你领略这样的 DIY 文化。
 
 
 关于骇客，表面上我们所能看到的，除了 脚本小子 就是那些不慎失手的有一定实力的骇客。可黑暗中，有多少双眼睛在监视着我们，不知道。
@@ -166,7 +166,7 @@ Web 与 Hack ，只有一步之遥。
 [2]:   http://www.nethunter.com          "Nethunter 官网"
 [3]:   http://www.cyanogenmod.org/        "CM 官网"
 [4]:   http://drops.wooyun.org/tips/4634        "前往文章页面"
-
+[5]:   http://www.amazon.cn/gp/product/B005Z7FABC/ref=as_li_ss_tl?camp=536&creative=3132&creativeASIN=B005Z7FABC&linkCode=as2&tag=daxuesheng-23        "亚马逊上该书的页面"
 [6]:   https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E7%9C%8B%E9%97%A8%E7%8B%97&rsv_pq=80dfa49d0000f351&rsv_t=9e12zY%2F3DfoAe8gTiNg1HUvxN%2BpO4YIQUNC4PKNr%2Bdt2qG8j3gM0d9eqzr4&rsv_enter=0&inputT=1910&rsv_sug3=36&rsv_sug1=19&oq=kanme&rsv_sug2=0&rsp=0&rsv_sug4=1911&bs=Catch%20Me%20If%20You%20Can              "百度一下这个"
 [7]:   https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Catch%20Me%20If%20You%20Can&rsv_pq=ae105df90000ca4c&rsv_t=8c30q7SnEpjZwCIp1RsDZcF0buij1NXixfEjGt7tCtrQimpgPMdUu0%2FmxXA&rsv_enter=0&inputT=1004&rsv_sug3=32&rsv_sug1=14&rsv_n=2&rsv_sug4=1005&rsv_sug=1&bs=%E9%80%8D%E9%81%A5%E6%B3%95%E5%A4%96 "百度一下这个"
 [8]:   https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%AC%BA%E9%AA%97%E7%9A%84%E8%89%BA%E6%9C%AF&rsv_pq=8e982eba00001f58&rsv_t=fa77YBvI%2FmlI3%2F22FTdWMra9t%2FY7DGrtmVBxIadTl39Ixzc9Ldsnsl2FLoU&rsv_enter=1&inputT=3671&rsv_sug3=21&rsv_sug1=12&rsv_sug2=0&rsp=0&rsv_sug4=8794&rsv_sug=1&bs=Catch%20Me%20If%20You%20Can%20%E5%8E%9F%E5%9E%8B  "百度一下这个"
