@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 上网利器 Shadowsocks :服务器端的部署 & Android 客户端的使用
+title: 上网利器 Shadowsocks ：服务器端的部署 & Android 客户端的使用
 category: blog
 description: 久仰 Shadowsocks 的大名，上手使用了一下，发现竟然非常简单便捷。感谢开源的 Shadowsocks ，感谢自由软件和开源社区。
 ---
