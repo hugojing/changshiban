@@ -44,12 +44,12 @@ description: 久仰 Shadowsocks 的大名，上手使用了一下，发现竟然
 
 ###下载
 
- * `iOS` 设备的话，可以前往 `App Store` 下载客户端。`其他系统`自己 Google/百度。
 
 下载 `Shadowsocks` 客户端，中文名称是 `影梭`，下载地址：
 
 [http://apps.evozi.com/apk-downloader/?id=com.github.shadowsocks][5]
 
+`iOS` 设备的话，可以前往 `App Store` 下载客户端。`其他系统`自己 Google/百度。
 
 
 ###配置 & 开启
