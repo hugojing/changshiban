@@ -271,4 +271,4 @@ Bitcoin： `1Ej7DepnQxrsKMNVQYWpaHH66YsgokDHZR`
 [8]:   https://www.btcchina.com/  "点击前往"
 [9]:   https://www.okcoin.cn/     "点击前往" 
 [10]:  http://www.huobi.com/             "点击前往" 
-[11]:  http://usebitcoins.info/   "点击查看"
+[11]:  http://usebitcoins.info/index.phin-te-real-world#!/catid=12;2;21;3;22;10;13;17;20;15;16;9;4;11;6;18;1;14;25;24;23;19   "点击查看"
