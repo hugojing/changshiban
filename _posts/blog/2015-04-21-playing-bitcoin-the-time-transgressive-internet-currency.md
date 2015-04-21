@@ -171,7 +171,7 @@ Bitcoin ，中文名称 `比特币` 。
 
 比特币钱包官方推荐列表如下：
 
-![比特币钱包官方推荐列表](http://chiniudn.com/post/150421/bitcoin_wallet_list.png)
+![比特币钱包官方推荐列表](http://changshiban.qiniudn.com/post/150421/bitcoin_wallet_list.png)
 
 参考文档：[怎样选择使用比特币钱包][4]
 
@@ -197,21 +197,21 @@ Bitcoin ，中文名称 `比特币` 。
 [https://apps.evozi.com/apk-downloader/?id=de.schildbach.wallet][6]
 
 + 非常简单好用的 App ：
-![比特币钱包官方推荐列表](http://changshiban.qiniudn.com/post/150421/tab.png)
+![app](http://changshiban.qiniudn.com/post/150421/tab.png)
 
 + 打开后就会获得一个 比特币地址：
-![比特币钱包官方推荐列表](http://changshiban.qiniudn.com/post/150421/index.png)
+![首页](http://changshiban.qiniudn.com/post/150421/index.png)
 这是我的比特币地址，现在开始我的博客 `接受比特币打赏/捐赠` ；
 `比特币地址` ，相当于银行账户卡号。
 
 + 接收比特币：
-![比特币钱包官方推荐列表](http://changshiban.qiniudn.com/post/150421/receive.png)
+![receive](http://changshiban.qiniudn.com/post/150421/receive.png)
 
 + 发送比特币：
-![比特币钱包官方推荐列表](http://changshiban.qiniudn.com/post/150421/send.png)
+![send](http://changshiban.qiniudn.com/post/150421/send.png)
 在远程可 扫描二维码/手动复制粘贴 填写接收者的比特币地址，在面对面可以使用 扫描二维码/ NFC 碰触 来发送给接收者：
-![比特币钱包官方推荐列表](http://changshiban.qiniudn.com/post/150421/send2.png)
-![比特币钱包官方推荐列表](http://changshiban.qiniudn.com/post/150421/send3.png)
+![send](http://changshiban.qiniudn.com/post/150421/send2.png)
+![send](http://changshiban.qiniudn.com/post/150421/send3.png)
 
 
 ###获取比特币
