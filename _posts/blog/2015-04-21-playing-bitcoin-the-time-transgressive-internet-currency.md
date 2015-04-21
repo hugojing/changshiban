@@ -18,118 +18,117 @@ Bitcoin ，中文名称 `比特币` 。
 ##比特币发展大事记
 
 
-<li class="bignews-left">
+<li>
 <span>2009-1-3</span>
 <p><a title="中本聪在位于芬兰赫尔辛基的一个小型服务器上挖出了第一批50个比特币" href="http://tech.caijing.com.cn/2013-11-25/113608041.html" target="_blank">中本聪在位于芬兰赫尔辛基的一个小型服务器上挖出了第一批50个比特币</a></p>
 <i></i>
 </li>
-<li class="bignews-right">
+<li>
 <span>2010-5-21</span>
 <p><a title="一位程序员用1万个比特币购买了价值25美元的披萨。这项交易诞生了比特币第一个公允汇率" href="http://money.163.com/13/0816/01/96C4MPFV00253B0H.html" target="_blank">一位程序员用1万个比特币购买了价值25美元的披萨。这项交易诞生了比特币第一个公允汇率</a></p>
 <i></i>
 </li>
-<li class="bignews-left">
+<li>
 <span>2010-11-6</span>
 <p><a title="Mt.Gox上的价格达到0.5美元，此时比特币经济达100万美元" href="http://money.163.com/13/0816/01/96C4MPFV00253B0H.html" target="_blank">Mt.Gox上的价格达到0.5美元，此时比特币经济达100万美元</a></p>
 <i></i>
 </li>
-<li class="bignews-right">
+<li>
 <span>2011-2-9</span>
 <p><a title="比特币价格首次达1美元。比特币与英镑、巴西币、波兰币的互兑交易平台先后开张" href="http://money.163.com/13/0816/01/96C4MPFV00253B0H.html" target="_blank">比特币价格首次达1美元。比特币与英镑、巴西币、波兰币的互兑交易平台先后开张</a></p>
 <i></i>
 </li>
-<li class="bignews-left">
+<li>
 <span>2012-12-6</span>
 <p><a title="世界首家官方认可的比特币交易所——法国比特币中央交易所诞生" href="http://vnetcj.jrj.com.cn/2013/12/09065616293464-5.shtml" target="_blank">世界首家官方认可的比特币交易所——法国比特币中央交易所诞生</a></p>
 <i></i>
 </li>
-<li class="bignews-right">
+<li>
 <span>2013-3月</span>
 <p><a title="美财政部金融犯罪执法系统FinCEN发布《虚拟货币个人管理条例》" href="http://b2b.toocle.com/detail--6128734.html" target="_blank">美财政部金融犯罪执法系统FinCEN发布《虚拟货币个人管理条例》</a></p>
 <i></i>
 </li>
-<li class="bignews-left">
+<li>
 <span>2013-3-30</span>
 <p><a title="按市值换算成美元后，全部发行比特币总值突破10亿美元" href="http://tech.ifeng.com/internet/detail_2013_04/01/23736158_0.shtml" target="_blank">按市值换算成美元后，全部发行比特币总值突破10亿美元</a></p>
 <i></i>
 </li>
-<li class="bignews-right">
+<li>
 <span>2013-4-10</span>
 <p><a title="比特币价格突破266美元" href="http://finance.qq.com/a/20130506/004544.htm" target="_blank">比特币价格突破266美元</a></p>
 <i></i>
 </li>
-<li class="bignews-left">
+<li>
 <span>2013-6-27</span>
 <p><a title="德国议会作出决定：持有比特币一年以上将予以免税" href="http://gb.cri.cn/42071/2013/08/20/6651s4224766.htm" target="_blank">德国议会作出决定：持有比特币一年以上将予以免税</a></p>
 <i></i>
 </li>
-<li class="bignews-right">
+<li>
 <span>2013-7-30</span>
 <p><a title="泰国中央银行禁止比特币的流通交易，当地相关企业暂停业务" href="http://china.cnr.cn/ygxw/201307/t20130731_513191537.shtml" target="_blank">泰国中央银行禁止比特币的流通交易，当地相关企业暂停业务</a></p>
 <i></i>
 </li>
-<li class="bignews-left">
+<li>
 <span>2013-8-8</span>
 <p><a title="美国德州联邦法官裁定比特币为合法货币，受美国证券委员会监管" href="http://www.cnstock.com/v_fortune/sft_yh/tyh_yhlcyw/201308/2692016.htm" target="_blank">美国德州联邦法官裁定比特币为合法货币，受美国证券委员会监管</a></p>
 <i></i>
 </li>
-<li class="bignews-right">
+<li>
 <span>2013-8-14</span>
 <p><a title="印度央行称暂不管制比特币" href="http://tech.ifeng.com/internet/detail_2013_08/14/28610456_0.shtml" target="_blank">印度央行称暂不管制比特币</a></p>
 <i></i>
 </li>
-<li class="bignews-left">
+<li>
 <span>2013-8-19</span>
 <p><a title="德国成全球首个认可比特币的国家" href="http://business.sohu.com/20130822/n384790034.shtml" target="_blank">德国成全球首个认可比特币的国家</a></p>
 <i></i>
 </li>
-<li class="bignews-right">
+<li>
 <span>2013-10-29</span>
 <p><a title="加拿大启用世界首台比特币自动提款机" href="http://finance.sina.com.cn/money/lczx/20131101/071917189721.shtml" target="_blank">加拿大启用世界首台比特币自动提款机</a></p>
 <i></i>
 </li>
-<li class="bignews-left">
+<li>
 <span>2013-11-22</span>
 <p><a title="央行副行长易纲表示：中国近期不可能承认比特币合法性。" href="http://finance.sina.com.cn/china/jrxw/20131127/172317454996.shtml" target="_blank">央行副行长易纲表示：中国近期不可能承认比特币合法性。</a></p>
 <i></i>
 </li>
-<li class="bignews-right">
+<li>
 <span>2013-11-28</span>
 <p><a title="比特币成交价首次突破1000美元" href="http://finance.sina.com.cn/world/20131128/112017465333.shtml" target="_blank">比特币成交价首次突破1000美元</a></p>
 <i></i>
 </li>
-<li class="bignews-left">
+<li>
 <span>2013-12-01</span>
 <p><a title="比特币月涨521%，价格首次超越1盎司黄金价格" href="http://finance.sina.com.cn/world/20131130/021917485664.shtml" target="_blank">比特币月涨521%，价格首次超越1盎司黄金价格</a></p>
 <i></i>
 </li>
-<li class="bignews-right">
+<li>
 <span>2013-12-5</span>
 <p><a title="中国人民银行等五部委发布《关于防范比特币风险的通知》，致比特币价格当日暴跌" href="http://finance.sina.com.cn/focus/jgbtc/" target="_blank">中国人民银行等五部委发布《关于防范比特币风险的通知》，致比特币价格当日暴跌</a></p>
 <i></i>
 </li>
-<li class="bignews-left">
+<li>
 <span>2013-12-17</span>
 <p><a title="央行要第三方支付关闭交易 比特币在华未来堪忧" href="http://money.163.com/13/1217/01/9G8QDLRR00253B0H.html" target="_blank">央行要第三方支付关闭交易 比特币在华未来堪忧</a></p>
 <i></i>
 </li>
-<li class="bignews-right">
+<li>
 <span>2013-12-29</span>
 <p><a title="印度关闭全国最大比特币网站" href="http://news.163.com/13/1229/21/9H9TUGL800014JB5.html" target="_blank">印度关闭全国最大比特币网站</a></p>
 <i></i>
 </li>
-<li class="bignews-left">
+<li>
 <span>2014-2</span>
 <p><a title="全球最大交易平台Mt.Gox确认倒闭 85万个比特币被盗一空" href="http://money.163.com/14/0304/01/9MF31E6U00253B0H.html" target="_blank">全球最大交易平台Mt.Gox确认倒闭 85万个比特币被盗一空</a></p>
 <i></i>
 </li>
-<li class="bignews-right">
+<li>
 <span>未来</span>
 <p>？</p>
 <i></i>
 </li>
 </ul>
-<span class="bit-line"></span>
 
 
 ##原理
