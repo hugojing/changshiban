@@ -200,7 +200,9 @@ Bitcoin ，中文名称 `比特币` 。
 
 + 打开后就会获得一个 比特币地址：
 ![首页](http://changshiban.qiniudn.com/post/150421/index.png)
+![地址](http://changshiban.qiniudn.com/post/150421/address.png)
 这是我的比特币地址，现在开始我的博客 `接受比特币打赏/捐赠` ；
+
 `比特币地址` ，相当于银行账户卡号。
 
 + 接收比特币：
