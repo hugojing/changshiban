@@ -25,16 +25,17 @@ category: blog
 
 要求是 Linux 环境，并且这个 Linux 版本：
 
-足够轻量，占用资源少；
-用命令行界面来进行操作，最好没有 GUI 桌面；
-使用 Docker 容器来进行代码实例 的 pull & run ，傻瓜式管理，简单易用；
-宿主机和虚拟机之间连通网络和共享文件夹，使得虚拟机可以取用在宿主机上写好的代码、宿主机的浏览器可以访问虚拟机中运行的 server；
++ 足够轻量，占用资源少；
++ 用命令行界面来进行操作，最好没有 GUI 桌面；
++ 使用 Docker 容器来进行代码实例 的 pull & run ，傻瓜式管理，简单易用；
++ 宿主机和虚拟机之间连通网络和共享文件夹，使得虚拟机可以取用在宿主机上写好的代码、宿主机的浏览器可以访问虚拟机中运行的 server；
 
 
 ## 解决方案
 
 针对以上目标，我们的方案应该是这样的：
 
+```
 Container | Container | ... 
 ----------------------------
           Docker
@@ -44,6 +45,7 @@ Container | Container | ...
    Vagrant (Virtual Box) 
 ---------------------------- 
 Local Machine (OSX or other)
+```
 
 用 Vagrant 来配置和生成虚拟机，虚拟机的操作系统采用 CoreOS ，当然你也可以使用 CentOS 或者 Ubuntu 等等。
 
@@ -65,6 +67,7 @@ Docker 并不是什么高深的东西，对我们来说只是好用的工具（�
 在终端执行：
 
 bash：
+
 ```
 git clone https://github.com/coreos/coreos-vagrant.git
 cd coreos-vagrant
@@ -76,14 +79,17 @@ cd coreos-vagrant
 实际上你能修改的地方有：
 
 bash：
+
 ```
 curl  http://discovery.etcd.io/new
 ```
+
 获得一个返回的 token ，复制并替换到 user-data 中。
 
 在 config.rb 中指定你要下载的 CoreOS 的版本。
 
 config.rb：
+
 ```
 # Official CoreOS channel from which updates should be downloaded
 $update_channel='beta'
@@ -96,6 +102,7 @@ $update_channel='beta'
 直接用 启动 命令启动这台虚拟机，如果它检测到缺少系统镜像会自动下载，并在首次启动时安装生成虚拟机：
 
 bash：
+
 ```
 cd coreos-vagrant
 vagrant up
@@ -104,6 +111,7 @@ vagrant up
 但是结果是这样的：
 
 bash：
+
 ```
 Bringing machine 'core-01' up with 'virtualbox' provider...
 ==> core-01: Box 'coreos-beta' could not be found. Attempting to find and install...
@@ -124,6 +132,7 @@ and try again.
 先查看一下这个文件
 
 Vagrantfile:
+
 ```
 config.vm.box_url = "http://%s.release.core-os.net/amd64-usr/current/coreos_production_vagrant.json" % $update_channel
 ```
@@ -165,11 +174,13 @@ http://beta.release.core-os.net/amd64-usr/695.2.0/coreos_production_vagrant.box
 
 
 coreos_production_vagrant.json：
+
 ```
 "url": "http://localhost:3000/coreos_production_vagrant.box",
 ```
 
 Vagrantfile:
+
 ```
 config.vm.box_url = "http://localhost:3000/coreos_production_vagrant.json"
 ```
@@ -177,6 +188,7 @@ config.vm.box_url = "http://localhost:3000/coreos_production_vagrant.json"
 这样就可以再次
 
 bash：
+
 ```
 cd coreos-vagrant
 vagrant up
@@ -189,12 +201,14 @@ vagrant up
 如果你也想使用 ｀CoreOS 695.2.0｀ , 那么你可以使用我做好的国内镜像，你需要做的只有修改：
 
 Vagrantfile:
+
 ```
 config.vm.box_url = "http://changshiban.qiniudn.com/image/coreos/amd64-usr/695.2.0/coreos_production_vagrant.json"
 ```
 然后再次
 
 bash：
+
 ```
 cd coreos-vagrant
 vagrant up
@@ -203,6 +217,7 @@ vagrant up
 ## ssh 登入 CoreOS
 
 bash：
+
 ```
 cd coreos-vagrant
 vagrant ssh core-01 -- -A
