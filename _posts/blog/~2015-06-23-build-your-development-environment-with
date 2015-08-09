@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CoreOS + Docker ：在 OSX 上使用 Vagrant 搭建跨平台开发环境
+title: CoreOS + Docker 系列(2)：
 description: 为何有经验的工程师都在虚拟机里跑程序？Working on your project's files on your host machine, but use the resources in the guest machine to compile or run your project.
 category: blog
 ---

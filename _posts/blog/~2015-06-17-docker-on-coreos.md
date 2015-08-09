@@ -1,0 +1,147 @@
+---
+layout: post
+title: 2014阿里巴巴产品经理实习生招聘笔试题目 & 我的笔试作品
+description: 后来笔试通过，面试的董Sir让我明白：移动端是未来，人的吃住行等基本需求中未得到解决的地方是机会。
+category: blog
+---
+
+##8个笔试题目
+
+
+
+
+https://coreos.com/docs/running-coreos/platforms/vagrant/
+
+http://www.tuicool.com/articles/rm2U7j
+
+
+
+
+ssh core@your-vps-ip-address
+docker pull imlonghao/shadowsocks-go
+docker run -d imlonghao/shadowsocks-go -p [port] -k [password] -m aes-256-cfb -t 60
+docker ps -l
+docker commit 9c0 imlonghao/shadowsocks-go
+
+
+https://docs.vagrantup.com/v2/synced-folders/index.html
+
+Synced folders enable Vagrant to sync a folder on the host machine to the guest machine, allowing you to continue working on your project's files on your host machine, but use the resources in the guest machine to compile or run your project.
+
+Vagrantfile:
+Vagrant.configure("2") do |config|
+  # other config here
+
+  config.vm.synced_folder "src/", "/srv/website"
+end
+
+Vagrantfile:
+# Uncomment below to enable NFS for sharing the host machine into the coreos-vagrant VM.
+      config.vm.synced_folder "~/dev", "/home/core/share", id: "core", :nfs => true, :mount_options => ['nolock,vers=3,udp']
+      $shared_folders.each_with_index do |(host_folder, guest_folder), index|
+        config.vm.synced_folder host_folder.to_s, guest_folder.to_s, id: "core-share%02d" % index, nfs: true, mount_options: ['nolock,vers=3,udp']
+      end
+
+阿里巴巴集团校园招聘： 
+
+产品经理- 2014实习生招聘-产品经理
+
+温馨说明：
+
+此题目仅作为本次笔试的说明，请知悉参考！（本题无需作答）
+
+·请认真阅读以下任务题目，可选择其中一个作为您的本次笔试提案完成！
+
+·完成后请将您的作品上传至任意无密码的云盘！同时将云盘URL地址提交到相应题目下方的横线处！
+
+·本次笔试周期为4月23日10：00--4月30日24：00！
+
+·本题无需作答 
+
+###1
+设计一个导购类产品--为大学校园学生群体设计一款以内容为核心的导购产品。任务产出：产品宣讲文档(PPT，10页以内)。
+
+内容包含：
+
+1.产品界面(手绘、电脑线框图、设计稿不限)
+
+2.商业模式
+
+3.产品定位与价值
+
+4.团队角色和项目计划
+
+5.风险评估
+
+6.产品考核标准
+
+ 
+###2
+互联网网站多采用手机号码作为帐号的登录名，请列举这样做的好处和缺陷及你的思考。要求：清晰描述你要改进的不合理的地方，并提出你的解决方案和可预见的效果。任务产出：产品宣讲文档(PPT，15页以内)。
+
+ 
+###3
+如果要针对中国老年人（55岁以上）设计一款聊天沟通应用（工具），可以怎么做？如何设计？又如何做推广？可考虑PC、手机、平板、电视等各终端，聊天沟通不仅限于文字聊天，可包含语音、视频、文件分享等。任务产出：产品宣讲文档(PPT，10页以内)。
+
+内容包含：
+
+1.产品界面(手绘、电脑线框图、设计稿不限)
+
+2.商业模式
+
+3.产品定位与价值
+
+4.团队角色和项目计划
+
+5.风险评估
+
+6.产品考核标准
+
+ 
+###4
+一个电子商务网站，用户总是抱怨到货太慢，你觉得可能是什么原因？该如何改善？要求：请详述在改善的措施中你是如何设计产品系统功能和运用信息技术的，并提出你的解决方案和可预见的效果。任务产出：产品宣讲文档(PPT，15页以内)。
+
+ 
+###5
+二维码、条形码做为移动互联网中一个新的入口，设计一个在校园中可以推广的基于二维码的新的商业机会。需要描述清楚：
+
+1.  场景，解决什么问题
+
+2.  产品设计，如何用产品解决这个问题
+
+3.  如何推广，前期会有什么困难，如何克服
+
+4.  产品的前景规划，会影响多少人，产生怎样的效果
+
+任务产出：产品宣讲文档(PPT，10页以内)。
+
+ 
+###6
+2012年11月11日，天猫及淘宝创造了191亿元的单日总成交额，而2015年的“双11”再次证明：在互联网的世界里，没有什么神话不可以被打破，“双11”天猫及淘宝的总成交额达到350.19亿元，成为全球最大购物狂欢节。今天，如果天猫和你一起要为年轻人打造一个充满惊喜和满意的专属的购物节，应该选在哪一天？应该怎么做？你的可行方案可以包含但不限以下内容：活动的主题，品牌选择，市场传播，买卖互动等方面。任务产出：产品宣讲文档(PPT，15页以内)。
+
+ 
+###7
+通过竞品分析，利用手机端设备的特点，设计一款音乐APP，任务产出：产品宣讲文档(PPT，10页以内)。
+
+1.产品界面(手绘、电脑线框图、设计稿不限)
+
+2.商业模式
+
+3.产品定位与价值
+
+4.团队角色和项目计划
+
+5.风险评估
+
+6.产品考核标准
+
+ 
+###8
+乔布斯是个产品狂人，任何不合理的产品或者流程，他都难以忍受，尝试去改进和提升，他曾经把Oracle CEO拉里-埃里森赠送给他的游艇重新做了设计；在患重病于医院接受治疗时，曾对医院不合理的流程进行改进和提升。做为一个热爱生活的你，请举例任意一项你在生活中观察到的不合理的流程或者产品，并提出你的改进建议。要求：清晰描述你要改进的流程或产品及其不合理的地方，并提出你的解决方案和可预见的效果。任务产出：产品宣讲文档(PPT，15页以内)。
+
+
+ 
+ 
+##我的笔试作品
+我的笔试作品是一个面向大学生群体的导购类产品：
+![笔试作品](http://changshiban.qiniudn.com/post/my_case.png)
